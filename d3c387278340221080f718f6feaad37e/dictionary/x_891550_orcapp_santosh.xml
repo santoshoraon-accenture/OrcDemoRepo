@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ca2483678340221080f718f6feaad355" label="SANTOSH" max_length="40" name="x_891550_orcapp_santosh" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Ankit" max_length="40" name="ankit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Santosh" max_length="40" name="santosh" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ayush" max_length="40" name="ayush" type="string"/>
+    </element>
+</database>
